@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1f98e43-17af-4798-a470-75c831f691fb" name="Default Changelist" comment="222">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="e1f98e43-17af-4798-a470-75c831f691fb" name="Default Changelist" comment="first、">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +30,38 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo_lyd" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.demo_testcase_request_test">
+    <configuration name="demo_testcase_request_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/demo_testcase_request_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mubu_login_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice_api_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,8 +84,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.mubu_login_test" />
+      <item itemvalue="Python.demo_testcase_request_test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_testcase_request_test" />
         <item itemvalue="Python.mubu_login_test" />
       </list>
     </recent_temporary>
@@ -70,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606360325428</updated>
-      <workItem from="1606360330884" duration="326000" />
+      <workItem from="1606360330884" duration="4066000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1606360371636</created>
@@ -86,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606360519769</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first、">
+      <created>1606360671357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606360671357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="222" />
-    <option name="LAST_COMMIT_MESSAGE" value="222" />
+    <MESSAGE value="first、" />
+    <option name="LAST_COMMIT_MESSAGE" value="first、" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1606360485306">
@@ -121,28 +164,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="0" key="#mubu_login_test/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360441049" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606360520083">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606363419719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360520083" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606360520082">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606363419719" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606370697997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360520082" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606360520082">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606370697997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606370697997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360520082" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606360520083">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606370697997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606370697996">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360520083" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606360549663">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606370697996" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606370697997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360549663" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606370697997" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1606363552670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606363552670" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606360684817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1606360684817" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practice_api_test$mubu_login_test.coverage" NAME="mubu_login_test Coverage Results" MODIFIED="1606360461265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/har" />
+    <SUITE FILE_PATH="coverage/practice_api_test$demo_testcase_request_test.coverage" NAME="demo_testcase_request_test Coverage Results" MODIFIED="1606370671006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
   </component>
 </project>
